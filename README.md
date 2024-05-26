@@ -1,4 +1,4 @@
-# M5 - Kenzie Buster
+# Kenzie Buster
 
 ## Preparando ambiente para execução dos testes
 
